@@ -249,55 +249,81 @@ R= Equivale a 20 kW
 
 (a) 1,000,000 W 
 
-(b) 
+R: 1 MW
 
-(c) 
+(b) 3 x 10∧6
+
+R: 3MW
+
+(c) 15 x 10∧7
+
+R: 150 MW
 
 (d) 8700 kW
 
-9. Convierta las siguientes cantidades en microwatts:
+8.7 MW
 
-(a) 1 W 
-
-(b) 0.4 W
-
-(c) 0.002 W 
-
-(d) 0.0125 W
 
 9. Convierta las siguientes cantidades en microwatts:
 
 (a) 2 W 
 
+R: 2 000 000 uW
+
 (b) 0.0005 W 
+
+R: 500 uW
 
 (c) 0.25 mW 
 
+R: 250 uW
+
 (d) 0.00667 mW
+
+R: 6.67 uW
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
 
+100mW a W =0.1 W
+24h a s= 86400 s
+
+W= P x t REEMPLAZO W= 0.1 x 86400 = 8640 J
+
 *13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
+R: 2.02 kW/ h
+
 15. Convierta 6700 watts-segundos en kWh.
+
+R: 0.00186 kW/h
 
 SECCIÓN 4–2 POTENCIA EN UN CIRCUITO ELECTRICO
 
 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
 
+R: 37.5
+
 19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+R: P= V x I REEMPLAZO P = 120V x 3A= 360W
 
 21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 uA.
 
+R: P= I∧2 x R   REEMPLAZO P= 100uA x 10kΩ = 100uW
+
 23. Se conecta un resistor de 56Ω  entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
 
-25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
+R: P= V∧2 / R REEMPLAZO P= 1.5∧2 7 56 = 40.2 mW
 
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω.
 
 (a) ¿Cuánta energía se utiliza en dos minutos?
 
+R= 0.480Wh
 
 (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+R: La potencia es igual
 
 SECCIÓN 4–3 CLASIFICACIONES DE POTENCIA EN RESISTORES 
 
