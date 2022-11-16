@@ -329,22 +329,35 @@ SECCIÓN 4–3 CLASIFICACIONES DE POTENCIA EN RESISTORES
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
+R: A lo minimo que utilizaria seria 12 W, para llegar a permitir el margen de seguridad del 20%
+
 SECCIÓN 4–5 FUENTES DE POTENCIA
 
-29. Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+R: 7.07v
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
+R: 50400 J
+
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
 
-35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
-es la eficiencia de esta fuente de potencia?
+R: La corriente promedio que puede ser absorbida es 8A 
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuálv es la eficiencia de esta fuente de potencia?
+
+R: Pperdida= Pentrada - Psalida REEMPLAZO Pperdida= 500 - 400 = 100mW
 
 *37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
+R: 0.08 kW
 
+4. VIDEO 
 
+5. CONCLUSIONES 
 
+6. BIBLIOGRAFIA 
 
 
 
