@@ -88,6 +88,8 @@ R3 = 2 Ω
 
 11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 
+El voltaje disminuyo 4V (de 10 a 6 V)
+
 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
 
 (a) 1.0 Ω
@@ -104,19 +106,37 @@ SECCIÓN 3–2 CALCULO DE LA CORRIENTE
 
 (a) V = 5 V , R = 1.0 Ω
 
+I= V/R  REEMPLAZO VALORES I= 5/1 = 5A
+
 (b)  V = 15 V , R = 10 Ω
+
+I= V/R  REEMPLAZO VALORES I= 15/10 = 1.5A
 
 (c)  V = 50 V , R = 100 Ω
 
+I= V/R  REEMPLAZO VALORES I= 50/100 = 0.5A = 500 mA
+
 (d)  V = 1 kV , R = 2.2 kΩ
+
+I= V/R  REEMPLAZO VALORES I= 1/2.2 = 2 mA
 
 (e)  V = 66 kV , R = 10 MΩ
 
-17. Se conecta un resistor de 10 V a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+I= V/R  REEMPLAZO VALORES I= 66/10 = 44.6 uA
+
+17. Se conecta un resistor de 10 Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+I= V/R REEMPLAZO  I= 12/10 = 1.2 A
 
 19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
 
+RESISTOR= 47 KΩ
+
+I= 25/47KΩ = 532 uA
+
 21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+R= Si ya que la corrinete ahora es de 0.642 A, lo cual excede de la capacidad del fusible. 
 
 SECCIÓN 3–3 CALCULO DE VOLTAJE
 
@@ -124,23 +144,41 @@ SECCIÓN 3–3 CALCULO DE VOLTAJE
 
 (a)  I = 2 A , R = 18 Ω
 
+V= (I) (R) REEMPLAZO V= 2 x 18 = 36V
+
 (b)  I = 5 A , R = 56 Ω
+
+V= (I) (R) REEMPLAZO V= 5 x 56 = 280V
 
 (c)  I = 2.5 A , R = 680 Ω
 
+V= (I) (R) REEMPLAZO V= 2.5 x 680 = 1700V
+
 (d)  I = 0.6 A , R = 47 Ω
+
+V= (I) (R) REEMPLAZO V= 0.6 x 47 = 28.2V
 
 (e)  I = 0.1 A , R = 560 Ω
 
+V= (I) (R) REEMPLAZO V= 0.1 x 560 = 56V
+
 25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+
+V= (I) (R) REEMPLAZO V= 3 x 27 = 81V
 
 27. Se conecta una fuente de 6 V a un resistor de 100 V mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 V. Determine lo siguiente:
 
 (a) Corriente
 
+R= 59.9 mV
+
 (b) Caída de voltaje en el resistor
 
+R: 5.99 V
+
 (c) Caída de voltaje a través de cada tramo de alambre
+
+R: 4.61 mV
 
 SECCIÓN 3–4 CALCULO DE RESISTENCIA
 
@@ -148,27 +186,46 @@ SECCIÓN 3–4 CALCULO DE RESISTENCIA
 
 (a)  V = 10 kV , I = 5A
 
+R= V/I REEMPLAZO  I= 10kV/5 = 2 kΩ
+
 (b)  V = 7 V , R = 2 mA
+
+R= V/I REEMPLAZO  I= 7V/2mA =3.5 kΩ
 
 (c)  V = 500 V , R = 250 mA
 
+R= V/I REEMPLAZO  I= 500V/0.25 = 2 kΩ
+
 (d)  V = 50 V , R = 500 uA
 
+R= V/I REEMPLAZO  I= 50V/500 uA = 100 kΩ
+
 (e)  V = 1 kV , R = 1 mA
+
+R= V/I REEMPLAZO  I= 1kV/1mA = 1 MΩ
 
 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
 ![image](https://user-images.githubusercontent.com/107088999/202190756-e65bc79a-f806-464e-b5d8-b8b0c6029bb4.png)
 
+R= V/I REEMPLAZO  I= 120V/0.8A =  150Ω
+
 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuáles el problema con el circuito?
 
 ![image](https://user-images.githubusercontent.com/107088999/202191093-7c589e0e-e7ad-4b67-b499-c278f1e54685.png)
 
+R: 133 Ω ; 100 Ω
+Si se llegase ajustar ele reostato a 0 Ω la fuente podra ponerse en cortocircuito.
+
 35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+R= V/I REEMPLAZO  I= 110V/1A =  110Ω
 
 SECCIÓN 3–5 INTRODUCCION A LA LOCALIZACION DE FALLAS
 
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+R:Tomara 5 lecturas de resistencia
 
 
 CAPITULO 4
@@ -177,13 +234,19 @@ SECCIÓN 4–1 Energía y potencia
 
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
 
+![image](https://user-images.githubusercontent.com/107088999/202234023-6614121e-f383-4806-bf0a-b031162da990.png)
+
+
 3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 
+R: 350 W
 
 5. ¿A cuántos watts equivalen 1000 J en 50 ms?
 
+R= Equivale a 20 kW 
+
 7. Convierta las siguientes cantidades en megawatts:
-8. 
+
 (a) 1,000,000 W 
 
 (b) 
