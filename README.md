@@ -29,27 +29,62 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 (a) el voltaje se triplica
 
+R: La corriente se triplica 
+
+
 (b) el voltaje se reduce en 75%
+
+R: La corriente se reduce al 75%
+
 
 (c) la resistencia se duplica
 
+R: La corriente se reduce a la mitad.
+
+
 (d) la resistencia se reduce en 35%
+
+R: La corriente se incrementa un 54%.
+
 
 (e) el voltaje se duplica y la resistencia se reduce a la mitad
 
+La corriente se cuadruplica.
+
+
+
 (f) el voltaje y la resistencia se duplican
 
+R: La corriente no cambia.
+
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+![image](https://user-images.githubusercontent.com/107088999/202199869-5113e028-243d-47e5-bbac-6902bbb90e26.png)
+
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
 ![image](https://user-images.githubusercontent.com/107088999/202185859-8bcba3fa-0316-48a0-b501-42b6a88dbbc1.png)
 
+R: La grafica es una linea recta, lo que indica una relacion lineal entre V e I
+
+
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
 
 ![image](https://user-images.githubusercontent.com/107088999/202186366-fd234884-5ff5-43a8-b77d-dfaaaec61d89.png)
 
+R1 = 0.5 Ω
+
+R2 = 1.0 Ω 
+
+R3 = 2 Ω
+
+
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+
+
+![image](https://user-images.githubusercontent.com/107088999/202205386-52142160-205c-4cc2-9518-ab7e222e67de.png)
+
 
 11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 
