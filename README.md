@@ -101,7 +101,7 @@ El voltaje disminuyo 4V (de 10 a 6 V)
 (d) 100 Ω
 
 
-![image](https://user-images.githubusercontent.com/107088999/202466580-ae6ea524-3ae9-4651-8b96-1a1c0684171c.png)
+![image](https://user-images.githubusercontent.com/107088999/202467013-fcc62d46-b6ef-44df-a903-93a5dc0a0a82.png)
 
 
 SECCIÓN 3–2 CALCULO DE LA CORRIENTE
