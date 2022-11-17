@@ -1,9 +1,9 @@
 # INFORME-TAREA-N2-MICHAEL-ANDRANGO
 
 OBJETIVOS
-1.1 Utilizar de forma correcta las unidades de medicion identificando mediante sus simbolos, para conversiones y sus notaciones tanto cientificas como de ingenieria
+1.1 Desarrollar distintos ejercicios relacionados con el tema ley de OHM obteniendo corriente, resistencia y voltaje aplicando las prefijo merircos en valores muy gandes o pequeños.
 
-1.2 Conocer la estructura de la cual parte voltaje, corriente, resistencia para tener claro sus conceptos y desarollarlo en ejercicios.
+1.2 Conocer la teoria que nos adentrara a conocer los conceptos fundamentales de la energia y potencia para usarlo en calculos del tema y si se da el caso usarlo en preguntas comunes relacionados con la vida diaria de energia y potencia.
 
 MARCO TEORICO
 
@@ -99,6 +99,10 @@ El voltaje disminuyo 4V (de 10 a 6 V)
 (c) 20 Ω
 
 (d) 100 Ω
+
+
+![image](https://user-images.githubusercontent.com/107088999/202466580-ae6ea524-3ae9-4651-8b96-1a1c0684171c.png)
+
 
 SECCIÓN 3–2 CALCULO DE LA CORRIENTE
 
@@ -359,8 +363,11 @@ https://youtu.be/24lK0MLVp8c
 
 5. CONCLUSIONES 
 
+En conclusion para desarrollar los ejercicios no es solo necesario tener las formulas hay ejercicios los cuales debemos razonar y el haber estudiado los conceptos ayuda de mejor manera al desarrollo de esos problemas. 
+
 6. BIBLIOGRAFIA 
 
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
 
 
 
