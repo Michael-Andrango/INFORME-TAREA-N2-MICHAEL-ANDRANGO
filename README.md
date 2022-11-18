@@ -132,7 +132,7 @@ I= V/R  REEMPLAZO VALORES I= 66/10 = 44.6 uA
 
 I= V/R REEMPLAZO  I= 12/10 = 1.2 A
 
-19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata..
 
 RESISTOR= 47 KΩ
 
